@@ -1,4 +1,4 @@
-# Hi, I'm Michael Ward
+# Hi, I'm Lee Sullivan
 
 ### Senior Software Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast
 
@@ -124,7 +124,7 @@ Relevant Coursework:
 
 ## 📫 Connect With Me
 
-* Email: michaelwdy78@gmail.com
+* Email: leesully999@gmail.com
 
 ---
 
